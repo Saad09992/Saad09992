@@ -1,7 +1,11 @@
 
 # 👋AOA!
-## 👩‍💻Programming is my hobby, career and entertainment.
-## My Tech-stack include MERN, SERN, NEXTJS, Flutter and laravel.
+## 👩‍💻Programming is my hobby + career.
+## My Tech-stacks:  
+-  MERN
+-  SERN
+-  NEXTJS
+-  Flutter
+-  laravel
 
-
-## Pause due to On Site Job.
+## Inactive due to on Site Job.
