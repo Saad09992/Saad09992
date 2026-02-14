@@ -5,9 +5,9 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saad09992&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Saad's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saad09992&theme=tokyonight&hide_border=true" alt="Saad's Streak" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saad09992&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saad09992&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
